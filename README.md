@@ -8,3 +8,4 @@ I'm Osaigbovo Emmanuel, a Junior Backend Software Engineer with majors in PHP(La
 
 ### 📫 You can find some of my articles at
 - Twilio: https://www.twilio.com/blog/author/oemmanuel
+- Dev.to: https://dev.to/osaigbovoemmanuel1
