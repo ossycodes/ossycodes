@@ -9,3 +9,4 @@ I'm Osaigbovo Emmanuel, a Backend Software Engineer with majors in PHP(Laravel) 
 ### 📫 You can find some of my articles at
 - Twilio: https://www.twilio.com/blog/author/oemmanuel
 - Dev.to: https://dev.to/osaigbovoemmanuel1
+- Medium: https://medium.com/@osaigbovoemmanuel1
