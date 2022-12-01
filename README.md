@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Osaigbovo Emmanuel, a Backend Software Engineer with majors in PHP(Laravel) from Nigeria. Competent and experienced at building optimized and scalable solutions within client budget, and proven track record of designing and implementing flexible solutions which support functionality changes. Professional prime focus includes: systems/software development and technical writing.
+I'm Osaigbovo Emmanuel, a Backend Software Engineer with majors in PHP and Laravel Framework from Nigeria. Competent and experienced at building optimized and scalable solutions within client budget, and proven track record of designing and implementing flexible solutions which support functionality changes. Professional prime focus includes: systems/software development and technical writing.
 
 ### 📫 How to reach me
 - Twitter: https://twitter.com/ossycodes
