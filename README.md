@@ -14,5 +14,4 @@ If you're looking for a reliable and dedicated Backend PHP and Laravel Developer
 
 ### 📫 You can find some of my articles at
 - Twilio: https://www.twilio.com/blog/author/oemmanuel
-- Dev.to: https://dev.to/osaigbovoemmanuel1
 - Medium: https://medium.com/@osaigbovoemmanuel1
